@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/MonstersRolodexReact/static/css/main.3a5990f8.chunk.css",
+    "main.js": "/github.io/MonstersRolodexReact/static/js/main.1f5ccff1.chunk.js",
+    "main.js.map": "/github.io/MonstersRolodexReact/static/js/main.1f5ccff1.chunk.js.map",
+    "runtime-main.js": "/github.io/MonstersRolodexReact/static/js/runtime-main.c3e6b07e.js",
+    "runtime-main.js.map": "/github.io/MonstersRolodexReact/static/js/runtime-main.c3e6b07e.js.map",
+    "static/js/2.1ce9630c.chunk.js": "/github.io/MonstersRolodexReact/static/js/2.1ce9630c.chunk.js",
+    "static/js/2.1ce9630c.chunk.js.map": "/github.io/MonstersRolodexReact/static/js/2.1ce9630c.chunk.js.map",
+    "static/js/3.108a987e.chunk.js": "/github.io/MonstersRolodexReact/static/js/3.108a987e.chunk.js",
+    "static/js/3.108a987e.chunk.js.map": "/github.io/MonstersRolodexReact/static/js/3.108a987e.chunk.js.map",
+    "index.html": "/github.io/MonstersRolodexReact/index.html",
+    "static/css/main.3a5990f8.chunk.css.map": "/github.io/MonstersRolodexReact/static/css/main.3a5990f8.chunk.css.map",
+    "static/js/2.1ce9630c.chunk.js.LICENSE.txt": "/github.io/MonstersRolodexReact/static/js/2.1ce9630c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e6b07e.js",
+    "static/js/2.1ce9630c.chunk.js",
+    "static/css/main.3a5990f8.chunk.css",
+    "static/js/main.1f5ccff1.chunk.js"
+  ]
+}
